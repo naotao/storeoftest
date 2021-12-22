@@ -12,6 +12,8 @@ public class Hello {
         System.out.println("你好世界！");
         int a=17;
         int b=9;
+        System.out.println("hello world!!!");
+        System.out.println("你好世界！");
         System.out.println(a-b);
     }
 }
